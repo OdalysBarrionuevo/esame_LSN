@@ -1,6 +1,9 @@
 # esame_LSN
+
 Odalys Barrionuevo
+
 Consegna esercitazioni del Laboratorio di Simulazione Numerica
+
 Data: 08 Febbraio 2025
 
 Note:
